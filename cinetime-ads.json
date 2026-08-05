@@ -10,7 +10,7 @@
       "siteUrl": "https://cinetime.co.mz/planos",
       "info": "Oferta válida para novos assinantes. Acesso liberado em até 30 segundos após pagamento.",
       "startDate": "2024-01-01",
-      "endDate": "2025-12-31",
+      "endDate": "2028-12-31",
       "priority": 1,
       "enabled": true
     },
@@ -24,7 +24,7 @@
       "siteUrl": "https://wa.me/258878459619",
       "info": "Aulas individuais ou em grupo. Horário flexível. Material incluso.",
       "startDate": "2024-01-01",
-      "endDate": "2025-12-31",
+      "endDate": "2028-12-31",
       "priority": 2,
       "enabled": true
     },
@@ -38,7 +38,7 @@
       "siteUrl": "/recursos",
       "info": "Versões disponíveis para Android 4 até 16. Atualização gratuita.",
       "startDate": "2024-01-01",
-      "endDate": "2025-12-31",
+      "endDate": "2029-12-31",
       "priority": 3,
       "enabled": true
     }
