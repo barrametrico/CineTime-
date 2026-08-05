@@ -1,0 +1,52 @@
+{
+  "ads": [
+    {
+      "id": "ad001",
+      "title": "Ofertas Especiais CineTime",
+      "advertiser": "CineTime Premium",
+      "text": "Assista conteúdo exclusivo por apenas 22 MT/semana! Aproveite filmes, séries e canais ao vivo sem interrupções.",
+      "imageUrl": "https://i.imgur.com/example-ad-image.jpg",
+      "videoUrl": "",
+      "siteUrl": "https://cinetime.co.mz/planos",
+      "info": "Oferta válida para novos assinantes. Acesso liberado em até 30 segundos após pagamento.",
+      "startDate": "2024-01-01",
+      "endDate": "2025-12-31",
+      "priority": 1,
+      "enabled": true
+    },
+    {
+      "id": "ad002",
+      "title": "Aulas Online com CDF",
+      "advertiser": "CDF - Professor e Consultor",
+      "text": "Aulas de Ciências, Economia e Finanças. Desenvolvimento de projetos, apps e sites sob medida!",
+      "imageUrl": "https://i.imgur.com/example-ad2-image.jpg",
+      "videoUrl": "",
+      "siteUrl": "https://wa.me/258878459619",
+      "info": "Aulas individuais ou em grupo. Horário flexível. Material incluso.",
+      "startDate": "2024-01-01",
+      "endDate": "2025-12-31",
+      "priority": 2,
+      "enabled": true
+    },
+    {
+      "id": "ad003",
+      "title": "Baixe o App CineTime",
+      "advertiser": "CineTime Mobile",
+      "text": "Baixe a versão mais recente do CineTime para Android e tenha acesso a todos os conteúdos diretamente no seu celular!",
+      "imageUrl": "https://i.imgur.com/cinetime-app.jpg",
+      "videoUrl": "",
+      "siteUrl": "/recursos",
+      "info": "Versões disponíveis para Android 4 até 16. Atualização gratuita.",
+      "startDate": "2024-01-01",
+      "endDate": "2025-12-31",
+      "priority": 3,
+      "enabled": true
+    }
+  ],
+  "config": {
+    "popupDuration": 7000,
+    "showOnPages": ["/movie", "/watch", "/clipes", "/ver-clipe"],
+    "refreshInterval": 3600000,
+    "maxAdsPerDay": 5
+  }
+}
