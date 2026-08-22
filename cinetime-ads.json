@@ -1,6 +1,20 @@
 {
   "ads": [
     {
+      "id": "ad070",
+      "title": "Livro: Berço da Venda - Marketing Digital",
+      "advertiser": "Admin • 878459619",
+      "text": "*Nem sempre é difícil começar no digital*, as grandes oportunidades de vida vem onde menos se espera. *Aprenda a fazer dinheiro pela internet, sem mesmo gastar dinheiro.* Nos tempos atuais fica difícil continuar na rotina para ter boas condições, aproveita já com o este ebook, trabalhar onde quiser aos momentos inigualáveis dos dias. Um ebook muito bom e barato, não deixe essa oportunidade para amanhã. *Seja livre, use o conhecimento deste ebook.*",
+      "imageUrl": "https://scontent-lhr11-1.xx.fbcdn.net/v/t39.30808-1/784251438_122107541169436182_1336678516446194552_n.jpg?stp=c0.5000x0.5000f_dst-webp_e15_p345x345_q70_tt1_u&efg=eyJ1cmxnZW4iOiJ1cmxnZW5fZnJvbV91cmwifQ&_nc_cid=0&_nc_ad=z-m&_nc_rml=0&_nc_ht=scontent-lhr11-1.xx&_nc_cat=110&_nc_ohc=rnj8lNDhU6MQ7kNvwGml56c&_nc_gid=-FIJAD9kov3QacpBL8L4uw&ccb=1-7&_nc_sid=f907e8&oh=00_AQFxjNBgtp-DGytOjHX5iMYcBz_ILwrspRXDzhFhgdGKUg&oe=6A8FC949",
+      "videoUrl": "",
+      "siteUrl": "http://wa.me/258878459619?text=Livro",
+      "info": "Soluções ao conforto do dia",
+      "startDate": "2025-01-01",
+      "endDate": "2029-12-31",
+      "priority": 1,
+      "enabled": true
+    },
+    {
       "id": "ad001",
       "title": "Windows 10 Pro Premium",
       "advertiser": "Nibloidy • 877906354",
@@ -9,8 +23,8 @@
       "videoUrl": "",
       "siteUrl": "http://wa.me/258847906357?text=Windows10Pro",
       "info": "Soluções com Windows 10 Pro Premium",
-      "startDate": "2026-01-01",
-      "endDate": "2029-12-31",
+      "startDate": "2020-01-01",
+      "endDate": "2023-12-31",
       "priority": 1,
       "enabled": true
     },
@@ -23,8 +37,8 @@
       "videoUrl": "",
       "siteUrl": "http://wa.me/258847906357?text=WavesV16UltimateSuite",
       "info": "Estúdio Masterizado com Waves V16",
-      "startDate": "2026-01-01",
-      "endDate": "2029-12-31",
+      "startDate": "2020-01-01",
+      "endDate": "2023-12-31",
       "priority": 1,
       "enabled": true
     },
@@ -37,8 +51,8 @@
       "videoUrl": "",
       "siteUrl": "http://wa.me/258847906357?text=AvastPremiumSecurity",
       "info": "Segurança Total com Avast Premium",
-      "startDate": "2026-01-01",
-      "endDate": "2029-12-31",
+      "startDate": "2020-01-01",
+      "endDate": "2023-12-31",
       "priority": 1,
       "enabled": true
     },
@@ -51,8 +65,8 @@
       "videoUrl": "",
       "siteUrl": "http://wa.me/258847906357?text=Windows11Pro",
       "info": "Soluções com Windows 11 Pro Premium",
-      "startDate": "2026-01-01",
-      "endDate": "2029-12-31",
+      "startDate": "2020-01-01",
+      "endDate": "2023-12-31",
       "priority": 1,
       "enabled": true
     },
@@ -65,8 +79,8 @@
       "videoUrl": "",
       "siteUrl": "http://wa.me/258847906357?text=DriversdeSomVídeoPremium",
       "info": "PC Otimizado com Drivers Premium",
-      "startDate": "2026-01-01",
-      "endDate": "2029-12-31",
+      "startDate": "2020-01-01",
+      "endDate": "2023-12-31",
       "priority": 1,
       "enabled": true
     },
@@ -79,8 +93,8 @@
       "videoUrl": "",
       "siteUrl": "http://wa.me/258847906357?text=MicrosoftOfficeProPlus2024",
       "info": "Escritório Equipado com Office Pro Plus",
-      "startDate": "2026-01-01",
-      "endDate": "2029-12-31",
+      "startDate": "2020-01-01",
+      "endDate": "2023-12-31",
       "priority": 1,
       "enabled": true
     },
@@ -93,8 +107,8 @@
       "videoUrl": "",
       "siteUrl": "http://wa.me/258847906357?text=FLStudio26",
       "info": "PC Equipado com FL Studio 26",
-      "startDate": "2026-01-01",
-      "endDate": "2029-12-31",
+      "startDate": "2020-01-01",
+      "endDate": "2023-12-31",
       "priority": 1,
       "enabled": true
     },
@@ -107,8 +121,8 @@
       "videoUrl": "",
       "siteUrl": "http://wa.me/258847906357?text=GoogleChromePremium",
       "info": "Navegador Otimizado com Chrome Premium",
-      "startDate": "2026-01-01",
-      "endDate": "2029-12-31",
+      "startDate": "2020-01-01",
+      "endDate": "2023-12-31",
       "priority": 1,
       "enabled": true
     },
@@ -121,8 +135,8 @@
       "videoUrl": "",
       "siteUrl": "http://wa.me/258847906357?text=LogicProPremium",
       "info": "Estúdio Apple com Logic Pro Premium",
-      "startDate": "2026-01-01",
-      "endDate": "2029-12-31",
+      "startDate": "2020-01-01",
+      "endDate": "2023-12-31",
       "priority": 1,
       "enabled": true
     },
@@ -135,8 +149,8 @@
       "videoUrl": "",
       "siteUrl": "http://wa.me/258847906357?text=AIMPLeitordeAudioPremium",
       "info": "Otimização com AIMP Player Premium",
-      "startDate": "2026-01-01",
-      "endDate": "2029-12-31",
+      "startDate": "2020-01-01",
+      "endDate": "2023-12-31",
       "priority": 1,
       "enabled": true
     },
@@ -149,8 +163,8 @@
       "videoUrl": "",
       "siteUrl": "http://wa.me/258847906357?text=AdobeCreativeCloudPremium",
       "info": "PC Totalmente Equipado com Adobe CC",
-      "startDate": "2026-01-01",
-      "endDate": "2029-12-31",
+      "startDate": "2020-01-01",
+      "endDate": "2023-12-31",
       "priority": 1,
       "enabled": true
     },
@@ -163,8 +177,8 @@
       "videoUrl": "",
       "siteUrl": "http://wa.me/258847906357?text=RapperStudio",
       "info": "PC Equipado com Rapper Studio",
-      "startDate": "2026-01-01",
-      "endDate": "2029-12-31",
+      "startDate": "2020-01-01",
+      "endDate": "2023-12-31",
       "priority": 1,
       "enabled": true
     },
@@ -177,8 +191,8 @@
       "videoUrl": "",
       "siteUrl": "http://wa.me/258847906357?text=PreSonusStudioOne7Pro",
       "info": "Estúdio Completo com Studio One 7",
-      "startDate": "2026-01-01",
-      "endDate": "2029-12-31",
+      "startDate": "2020-01-01",
+      "endDate": "2023-12-31",
       "priority": 1,
       "enabled": true
     },
@@ -191,8 +205,8 @@
       "videoUrl": "",
       "siteUrl": "http://wa.me/258847906357?text=WondershareFilmora2024",
       "info": "Escritório Criativo com Filmora 2024",
-      "startDate": "2026-01-01",
-      "endDate": "2029-12-31",
+      "startDate": "2020-01-01",
+      "endDate": "2023-12-31",
       "priority": 1,
       "enabled": true
     },
@@ -205,8 +219,8 @@
       "videoUrl": "",
       "siteUrl": "http://wa.me/258847906357?text=MagixSamplitudeProX9Suite",
       "info": "Equipamento Profissional com Samplitude X9",
-      "startDate": "2026-01-01",
-      "endDate": "2029-12-31",
+      "startDate": "2020-01-01",
+      "endDate": "2023-12-31",
       "priority": 1,
       "enabled": true
     },
@@ -219,8 +233,8 @@
       "videoUrl": "",
       "siteUrl": "http://wa.me/258847906357?text=CubasePro13Premium",
       "info": "Estúdio Otimizado com Cubase Pro Premium",
-      "startDate": "2026-01-01",
-      "endDate": "2029-12-31",
+      "startDate": "2020-01-01",
+      "endDate": "2023-12-31",
       "priority": 1,
       "enabled": true
     }
@@ -231,4 +245,5 @@
     "refreshInterval": 3600000,
     "maxAdsPerDay": 5
   }
-}
+    }
+      
