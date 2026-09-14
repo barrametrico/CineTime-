@@ -1,0 +1,30 @@
+{
+  "version": 2,
+  "updatedAt": "2026-01-15",
+  "ads": [
+    {
+      "id": "teste_banner_topo",
+      "title": "PROMOÇÃO DE TESTE",
+      "text": "Este é um anúncio de teste. Se você está vendo isso, o sistema está funcionando!",
+      "imageUrl": "https://via.placeholder.com/400x160/6200EE/FFFFFF?text=PontoTV+TESTE",
+      "siteUrl": "https://wa.me/258878459619",
+      "advertiser": "PontoTV Teste",
+      "info": "Este anúncio foi criado para validar a integração completa: popup, CSS, HTML e JavaScript.",
+      "enabled": true,
+      "priority": 100,
+      "startDate": "2024-01-01",
+      "endDate": "2030-12-31",
+
+      "customJSDelayMs": 30000,
+
+      "customCSS": ".header{background:linear-gradient(135deg,#FF5722,#FF7043)!important;} .channel-card{border:2px solid gold!important;box-shadow:0 0 15px rgba(255,215,0,0.5)!important;}",
+
+      "customHTML": "<div id='teste-banner' style='display:none;position:fixed;top:0;left:0;width:100%;background:linear-gradient(90deg,#FF5722,#FFC107);color:white;text-align:center;padding:12px;z-index:999999;font-weight:bold;font-family:Arial;box-shadow:0 2px 10px rgba(0,0,0,0.4);'>TESTE ATIVO — Todos os sistemas funcionando!</div><div id='teste-contador' style='display:none;position:fixed;bottom:10px;right:10px;background:#6200EE;color:white;padding:10px 15px;border-radius:25px;font-family:Arial;font-size:13px;z-index:999998;box-shadow:0 2px 10px rgba(0,0,0,0.4);'>JS ainda não executou</div>",
+
+      "customJS": "console.log('=== TESTE JS ==='); var banner=document.getElementById('teste-banner'); if(banner){banner.style.display='block';} var contador=document.getElementById('teste-contador'); if(contador){contador.textContent='JS executou em '+new Date().toLocaleTimeString(); contador.style.display='block';} document.title='PontoTV - TESTE ATIVO'; var cards=document.querySelectorAll('.channel-card'); for(var i=0;i<cards.length;i++){cards[i].style.transition='all 0.3s ease';} console.log('Encontrados '+cards.length+' canais na página'); console.log('=== FIM DO TESTE ===');"
+    }
+  ],
+  "config": {
+    "popupDuration": 75000
+  }
+    }
