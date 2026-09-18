@@ -13,7 +13,7 @@
       "enabled": true,
       "priority": 100,
       "startDate": "2024-01-01",
-      "endDate": "2030-12-31",
+      "endDate": "2025-12-31",
 
       "customJSDelayMs": 30000,
 
