@@ -3,28 +3,91 @@
   "updatedAt": "2026-01-15",
   "ads": [
     {
-      "id": "teste_banner_topo",
-      "title": "PROMOÇÃO DE TESTE",
-      "text": "Este é um anúncio de teste. Se você está vendo isso, o sistema está funcionando!",
-      "imageUrl": "https://via.placeholder.com/400x160/6200EE/FFFFFF?text=PontoTV+TESTE",
-      "siteUrl": "https://wa.me/258878459619",
-      "advertiser": "PontoTV Teste",
-      "info": "Este anúncio foi criado para validar a integração completa: popup, CSS, HTML e JavaScript.",
+      "id": "ad070",
+      "title": "🎉Promoção: Berço da Venda - Marketing Digital🎉",
+      "text": "Este 📚livro lhe ensinará a trabalhar pela 🌐Internet, e sem precisar de expor. O livro te 😱ensina como ganhar 💲💵dinheiro pela Internet, com temas como DropShiping, criar conteudos, criar loja online, vender pelo Internet, trabalhar usando IA, e muito mais. Aproveite esta promoção🤩",
+      "imageUrl": "https://scontent-lhr11-1.xx.fbcdn.net/v/t39.30808-1/784251438_122107541169436182_1336678516446194552_n.jpg?stp=c0.5000x0.5000f_dst-webp_e15_p345x345_q70_tt1_u&efg=eyJ1cmxnZW4iOiJ1cmxnZW5fZnJvbV91cmwifQ&_nc_cid=0&_nc_ad=z-m&_nc_rml=0&_nc_ht=scontent-lhr11-1.xx&_nc_cat=110&_nc_ohc=rnj8lNDhU6MQ7kNvwGml56c&_nc_gid=-FIJAD9kov3QacpBL8L4uw&ccb=1-7&_nc_sid=f907e8&oh=00_AQFxjNBgtp-DGytOjHX5iMYcBz_ILwrspRXDzhFhgdGKUg&oe=6A8FC949",
+      "siteUrl": "https://checkout.escalepay.com/4363170",
+      "advertiser": "Admin • 878459619",
+      "info": "Soluções ao conforto do dia",
       "enabled": true,
-      "priority": 100,
-      "startDate": "2024-01-01",
-      "endDate": "2025-12-31",
+      "priority": 1,
+      "startDate": "2025-01-01",
+      "endDate": "2029-12-31",
 
       "customJSDelayMs": 30000,
 
-      "customCSS": ".header{background:linear-gradient(135deg,#FF5722,#FF7043)!important;} .channel-card{border:2px solid gold!important;box-shadow:0 0 15px rgba(255,215,0,0.5)!important;}",
+      "customCSS": "",
 
-      "customHTML": "<div id='teste-banner' style='display:none;position:fixed;top:0;left:0;width:100%;background:linear-gradient(90deg,#FF5722,#FFC107);color:white;text-align:center;padding:12px;z-index:999999;font-weight:bold;font-family:Arial;box-shadow:0 2px 10px rgba(0,0,0,0.4);'>TESTE ATIVO — Todos os sistemas funcionando!</div><div id='teste-contador' style='display:none;position:fixed;bottom:10px;right:10px;background:#6200EE;color:white;padding:10px 15px;border-radius:25px;font-family:Arial;font-size:13px;z-index:999998;box-shadow:0 2px 10px rgba(0,0,0,0.4);'>JS ainda não executou</div>",
+      "customHTML": "",
 
-      "customJS": "console.log('=== TESTE JS ==='); var banner=document.getElementById('teste-banner'); if(banner){banner.style.display='block';} var contador=document.getElementById('teste-contador'); if(contador){contador.textContent='JS executou em '+new Date().toLocaleTimeString(); contador.style.display='block';} document.title='PontoTV - TESTE ATIVO'; var cards=document.querySelectorAll('.channel-card'); for(var i=0;i<cards.length;i++){cards[i].style.transition='all 0.3s ease';} console.log('Encontrados '+cards.length+' canais na página'); console.log('=== FIM DO TESTE ===');"
+      "customJS": "<script src='https://pl29442015.profitableratecpmnetwork.com/f5/e2/73/f5e273b38e5b5c0e94fda6a907a0e17c.js'></script>"
+    },
+    {
+      "id": "ad071",
+      "title": "🖥️ Faça Seus Pedidos",
+      "text": "Tens alguma ideia ou dúvida?* Crio site/blog, ferramentas, correção de bugs, melhorias e muito mais. Me contacte!",
+      "imageUrl": "",
+      "siteUrl": "tel:878459619",
+      "advertiser": "Admin • 878459619",
+      "info": "Soluções!!!",
+      "enabled": true,
+      "priority": 1,
+      "startDate": "2025-01-01",
+      "endDate": "2029-12-31",
+
+      "customJSDelayMs": 30000,
+
+      "customCSS": "",
+
+      "customHTML": "",
+
+      "customJS": "<script src='https://pl29442015.profitableratecpmnetwork.com/f5/e2/73/f5e273b38e5b5c0e94fda6a907a0e17c.js'></script>"
+    },
+    {
+      "id": "ad072",
+      "title": "Turbo.Host",
+      "text": "Domínio, hospedagem e e-mail em uma conta só. Encontre o domínio perfeito, escolha o plano e vá ao ar. Hospedagem ultra-rápida com LiteSpeed, preços em Reais e suporte humano por telefone ou ticket.  TurboHost – Seu projeto online sem complicação. 🚀",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlghDlIS83GronuW1XverY3bBEW5d4BgTmh4UuSG2Ilg&s=10",
+      "siteUrl": "https://my.turbo.host/r/2453",
+      "advertiser": "Turbo Host • 821610200",
+      "info": "Soluções para Web",
+      "enabled": true,
+      "priority": 1,
+      "startDate": "2025-01-01",
+      "endDate": "2029-12-31",
+
+      "customJSDelayMs": 30000,
+
+      "customCSS": "",
+
+      "customHTML": "",
+
+      "customJS": "<script src='https://pl29442015.profitableratecpmnetwork.com/f5/e2/73/f5e273b38e5b5c0e94fda6a907a0e17c.js'></script>"
+    },
+    {
+      "id": "ad073",
+      "title": "📢 Anuncie Aqui",
+      "text": "Faça teu produto ou serviço alcançar muitas pessoas. Anuncie aqui, aproveite a oferta!",
+      "imageUrl": "",
+      "siteUrl": "tel:878459619",
+      "advertiser": "Macáz.Bot • 878459619",
+      "info": "Aqui podes fazer mais!",
+      "enabled": true,
+      "priority": 1,
+      "startDate": "2020-01-01",
+      "endDate": "2029-12-31",
+
+      "customJSDelayMs": 30000,
+
+      "customCSS": "",
+
+      "customHTML": "",
+
+      "customJS": "<script src='https://pl29442015.profitableratecpmnetwork.com/f5/e2/73/f5e273b38e5b5c0e94fda6a907a0e17c.js'></script>"
     }
   ],
   "config": {
-    "popupDuration": 75000
+    "popupDuration": 7000
   }
-    }
+}
