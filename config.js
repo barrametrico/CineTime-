@@ -22,19 +22,19 @@ const CONFIG = {
       '<svg xmlns="http://www.w3.org/2000/svg" width="300" height="300"><rect width="300" height="300" fill="#1e1e1e"/><text x="150" y="158" font-family="Arial" font-size="48" fill="#555" text-anchor="middle">?</text></svg>'
     ),
     API_IPTV: 'https://iptv-org.github.io/api',
-    VIDSRC: 'https://vidsrcme.ru',
-    VIDSRC_EMBED: 'https://vidsrcme.ru/embed',
+    VIDSRC: 'https://vidsrc.sh',
+    VIDSRC_EMBED: 'https://vidsrc.sh/embed',
     SITE_URL: 'https://ffortico.top/pub',
-    PER_PAGE: 24
+    PER_PAGE: 100
   },
 
   /* ==========================================================
      INDEX
      ========================================================== */
   INDEX: {
-    PER_PAGE: 24,
+    PER_PAGE: 100,
     SHUFFLE_ALL_TAB: true,
-    SKELETON_COUNT: 12,
+    SKELETON_COUNT: 100,
     MAX_AVAILABILITY_JUMPS: 3,
   },
 
@@ -131,8 +131,8 @@ const CONFIG = {
      PERSON
      ========================================================== */
   PERSON: {
-    PEOPLE_PER_LOAD: 24,
-    CREDITS_PER_PAGE: 24,
+    PEOPLE_PER_LOAD: 100,
+    CREDITS_PER_PAGE: 100,
     POPULAR_PAGES: [1, 2, 3, 4, 5],
     MAX_AVAILABILITY_JUMPS: 3,
   },
